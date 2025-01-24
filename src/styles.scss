@@ -23,4 +23,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  app-root{
+    @media (max-width: 460px) {
+      transform: scale(0.75);
+    }
+  }
 }

@@ -1,27 +1,43 @@
-# BlogPreview
+# Frontend Mentor - Blog preview card solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-## Code scaffolding
+## Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### The challenge
 
-## Build
+Users should be able to:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- See hover and focus states for all interactive elements on the page
 
-## Running unit tests
+### Screenshot
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Alt blog demo screenshot](./public/blog-demo.png)
 
-## Running end-to-end tests
+### Links
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Solution URL: [Github Repository](https://github.com/Gbw699/Blog-preview-card-frontend-mentor)
+- Live Site URL: [Vercel Deployment](https://blog-preview-card-gbw699.vercel.app/)
 
-## Further help
+## My process
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+### Built with
+
+- Semantic HTML5 markup
+- Responsive Desing
+- [Angular 18](https://v18.angular.dev/)
+- [SASS](https://sass-lang.com/) for styles
+
+## Author
+
+- Frontend Mentor - [@Gbw699](https://www.frontendmentor.io/profile/Gbw699)
+- Linkedin - [@Gabriel Barimboim](https://www.linkedin.com/in/gabriel-barimboim/)

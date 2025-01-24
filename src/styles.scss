@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
 $Mobile: 375px;
 $Desktop: 1440px;
 
@@ -6,10 +8,11 @@ $White: hsl(0, 0%, 100%);
 $Gray500: hsl(0, 0%, 42%);
 $Gray950: hsl(0, 0%, 7%);
 
-html, body {
+html,
+body {
   font-family: "Figtree", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
+  font-optical-sizing: auto;
   font-style: normal;
   font-size: 16px;
 
@@ -17,4 +20,7 @@ html, body {
   width: 100%;
   margin: 0;
   background-color: $Yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

@@ -28,6 +28,12 @@
   main {
     h1 {
       font-weight: 800;
+      width: fit-content;
+      transition: color 0.1 s;
+      &:hover {
+        cursor: pointer;
+        color: s.$Yellow;
+      }
     }
     .text {
       color: s.$Gray500;
